@@ -13,7 +13,7 @@ Types of Contributions
 Report Bugs
 ~~~~~~~~~~~
 
-Report bugs at https://github.com/audreyr/cookiecutter-pypackage/issues
+Report bugs at https://github.com/sierra-moxon/cookiecutter-pypackage/issues
 
 If you are reporting a bug, please include:
 
@@ -44,7 +44,7 @@ Submit Feedback
 ~~~~~~~~~~~~~~~
 
 The best way to send feedback is to file an issue at
-https://github.com/audreyr/cookiecutter-pypackage/issues.
+https://github.com/sierra-moxon/cookiecutter-pypackage/issues.
 
 If you are proposing a new feature:
 
@@ -170,10 +170,6 @@ Before you submit a pull request, check that it meets these guidelines:
 2. If the pull request adds functionality, the docs should be updated. Put your
    new functionality into a function with a docstring, and add the feature to
    the list in README.rst.
-
-3. The pull request should work for Python 3.6 and 3.7, 3.8 and for PyPy. Check
-   https://travis-ci.org/audreyr/cookiecutter-pypackage/pull_requests and
-   make sure that the tests pass for all supported Python versions.
 
 Add a New Test
 --------------
